@@ -21,5 +21,5 @@ Designed on **Figma**, built with **HTML/CSS** and made responsive with **JavaSc
 - **Backend**: JSON
 
 ### More of the Design:
-<img src="images/Vote-Vibe-v3.6.zip" alt="More of the Main Page" width="400"> <br>
-<img src="images/Vote-Vibe-v3.6.zip" alt="Party Room Page" width="400">
+<img src="images/DetailsImage.png" alt="More of the Main Page" width="400"> <br>
+<img src="images/PartyRoomImage.png" alt="Party Room Page" width="400">
